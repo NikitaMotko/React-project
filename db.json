@@ -1,0 +1,556 @@
+{
+  "users": [
+    {
+      "email": "roman.hryb@nure.ua",
+      "password": "$2a$10$z5EUT7rdQ7h9P3EZEy9oDOS91J5b9UblMs/Tj92OZTbUxk5tt74Pu",
+      "username": "Stella",
+      "balance": 9999999,
+      "id": 1
+    },
+    {
+      "email": "motko.nikita2077@gmail.com",
+      "password": "$2a$10$9.KjcNfIlbRqrKQvTy1cA.8.5HQJ3cyH4jDj1HA6eVo3lHoRElZri",
+      "username": "Ayayaka",
+      "balance": 9999999,
+      "id": 2
+    }
+  ],
+  "banners": [
+    {
+      "id": 0,
+      "name": "Discerner Of Enigmas",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/05/28/8b986bca2c84ec70d1982ee3ffd2af50_6862079772669631403.jpg",
+      "mainCharacterId": 0,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Ballad in Goblets",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/5/51/Genshin-impact-banner-venti-mar-2021.jpg?width=1920",
+      "mainCharacterId": 15,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Farewell of Snezhnayas",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/0/01/2020-11-10_Farewell_of_Snezhnaya.jpg?width=1920",
+      "mainCharacterId": 28,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sparkling Steps",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/c/c4/2020-10-19_Sparkling_Steps.jpg?width=1920",
+      "mainCharacterId": 14,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Invitation to Mundane Life",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/9/98/Xiao-banner-may-31.jpg?width=1024",
+      "mainCharacterId": 12,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Heron's Court",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-07-22_The_Herons_Court.jpeg",
+      "mainCharacterId": 13,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Azure Excursion",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/9/9a/Genshin-impact-ballad-in-goblets-banner-march-30-2022.jpg?width=1024",
+      "mainCharacterId": 16,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Reign of Serenity",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-03-08_Reign_of_Serenity.jpg",
+      "mainCharacterId": 25,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Drifting Luminescence",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-03-08_Drifting_Luminscence.jpg",
+      "mainCharacterId": 26,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Everbloom Violet",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-02-16_Everbloom_Violet.jpg",
+      "mainCharacterId": 29,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Centry of Hermitage",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-01-25_Gentry_of_Hermitage.jpg",
+      "mainCharacterId": 31,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Adrift in the Harbor",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-01-25_Adrift_in_the_Harbor.jpg",
+      "mainCharacterId": 21,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The Transcedent One Returns",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2022/2022-01-05_The_Transcendent_One_Returns.jpg",
+      "mainCharacterId": 27,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Oni's Royale",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-12-14_Onis_Royale.jpg",
+      "mainCharacterId": 18,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Secretum Secretorum",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-11-24_Secretum_Secretorum.jpg",
+      "mainCharacterId": 17,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Born of Ocean Swell",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-11-24_Born_of_Ocean_Swell.jpg",
+      "mainCharacterId": 19,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Moment of Bloom",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-11-02_Moment_Of_Bloom.jpg",
+      "mainCharacterId": 22,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Tapestry of Golden Flames",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-08-11_Tapestry_of_Golden_Flames.jpeg",
+      "mainCharacterId": 30,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Leaves in the Wind",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021_07_03_Leaves_in_the_Wind.PNG",
+      "mainCharacterId": 23,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Dance of Lanterns",
+      "image": "https://www.gensh.in/fileadmin/Database/Banner_Gacha/2021/2021-02-17_Dance_of_Lanterns.jpg",
+      "mainCharacterId": 24,
+      "weapons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "characters": [
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "histories": [],
+  "prays": [],
+  "rewards": [
+    {
+      "id": 0,
+      "name": "Yelan",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 1,
+      "name": "Sword Govna",
+      "quality": "common",
+      "type": "weapon"
+    },
+    {
+      "id": 2,
+      "name": "Bow Govna",
+      "quality": "common",
+      "type": "weapon"
+    },
+    {
+      "id": 3,
+      "name": "Spear Govna",
+      "quality": "common",
+      "type": "weapon"
+    },
+    {
+      "id": 4,
+      "name": "Book Govna",
+      "quality": "common",
+      "type": "weapon"
+    },
+    {
+      "id": 5,
+      "name": "Barbara",
+      "quality": "rare",
+      "type": "character"
+    },
+    {
+      "id": 6,
+      "name": "Noel",
+      "quality": "rare",
+      "type": "character"
+    },
+    {
+      "id": 7,
+      "name": "Yanfei",
+      "quality": "rare",
+      "type": "character"
+    },
+    {
+      "id": 8,
+      "name": "Diluk",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 9,
+      "name": "Mona",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 10,
+      "name": "Jean",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 11,
+      "name": "Qiqi",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 12,
+      "name": "Xiao",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 13,
+      "name": "Kamisato Ayaka",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 14,
+      "name": "Klee",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 15,
+      "name": "Venti",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 16,
+      "name": "Kamisato Ayato",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 17,
+      "name": "Albedo",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 18,
+      "name": "Arataki Itto",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 19,
+      "name": "Eula",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 20,
+      "name": "Ganyu",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 21,
+      "name": "Hu Tao",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 22,
+      "name": "Kaedehara Kazuha",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 23,
+      "name": "Keqing",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 24,
+      "name": "Raiden Shogun",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 25,
+      "name": "Sangonomiya Kokomi",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 26,
+      "name": "Shenhe",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 27,
+      "name": "Tartaglia",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 28,
+      "name": "Yae Miko",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 29,
+      "name": "Yoimiya",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 30,
+      "name": "Zhongli",
+      "quality": "immortal",
+      "type": "character"
+    },
+    {
+      "id": 31,
+      "name": "Amber",
+      "quality": "rare",
+      "type": "character"
+    }
+  ]
+}
